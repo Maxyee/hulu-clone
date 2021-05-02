@@ -12,7 +12,7 @@ yarn run dev
 
 ```
 
-## How To Setup Nextjs Project From Scratch
+## How To Setup Nextjs with TailWindCss Project From Scratch
 
 For the kind information. In this project, I installed everything of NextJs from scratch. I explained everything step by step below:
 
