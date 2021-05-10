@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Hulu Clone
+![alt text](https://github.com/Maxyee/hulu-clone/blob/master/projectSnap/project.png)
+
 ## Getting Started
 
 I used `yarn` package manager. so donwload or clone the repository.
